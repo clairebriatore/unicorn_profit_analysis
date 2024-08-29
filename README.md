@@ -65,5 +65,5 @@ Check my Tableau Dashboard & Data Exploration or simply download the workbook
 
 For any questions or feedback, please contact:
 - Name: Claire Briatore
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/claire-briatore/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/claire-briatore/)
 
