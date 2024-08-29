@@ -44,15 +44,6 @@ The analysis of Unicorn's sales data revealed the following insights:
 
 - Customer Growth Strategy: With 98.62% of sales coming from returning customers by Q4 2018, the focus should shift to new customer acquisition campaigns to unlock further market share.
 
-
-
-
-
-
-
-
-
-
 ## Deliverables:
 
 - SQL Analysis:Queries and results answering the predefined questions about Unicorn’s sales data. These will provide foundational insights into the business’s performance over the analyzed years.
@@ -68,4 +59,11 @@ Tableau Dashboard:
 
 Check my Tableau Dashboard & Data Exploration or simply download the workbook
 [Tableau Dashboard](https://public.tableau.com/app/profile/claire.briatore/viz/UnicornBusinessGrowthStrategy/Dashboard1QuickOverview)
+
+
+## Contact
+
+For any questions or feedback, please contact:
+- Name: Claire Briatore
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/claire-briatore/)
 
